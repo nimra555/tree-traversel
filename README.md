@@ -7,10 +7,10 @@
 
 
     
-    * Node — A node is a structure which may contain a value or condition, or represent a separate data structure.
-    * Root — The top node in a tree, the prime ancestor.
+    ** Node — A node is a structure which may contain a value or condition, or represent a separate data structure.
+    ** Root — The top node in a tree, the prime ancestor.
     * Child — A node directly connected to another node when moving away from the root, an immediate descendant.
-    * Parent — The converse notion of a child, an immediate ancestor.
+    * Parent — The converse notion of a child, an immediate ancestor. *
     * Leaf — A node with no children.
     * Internal node — A node with at least one child.
     * Edge — The connection between one node and another.
