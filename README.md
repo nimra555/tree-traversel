@@ -7,8 +7,8 @@
 
 ###### Following are the few frequently used terminologies for Tree data structure.
 
-  *Node — A node is a structure which may contain a value or condition, or represent a separate data structure.
-    * Root — The top node in a tree, the prime ancestor.
+* Node — A node is a structure which may contain a value or condition, or represent a separate data structure.
+- Root — The top node in a tree, the prime ancestor.
     * Child — A node directly connected to another node when moving away from the root, an immediate descendant.
     * Parent — The converse notion of a child, an immediate ancestor. 
     * Leaf — A node with no children.
@@ -25,7 +25,7 @@
     Binary Search Tree is a tree is a tree in which each node has atmost two children.A Binary Search tree is a binary tree in which 
     nodes that have lesser value are stored on the left while the nodes with a higher value are stored at the right.
     
-    ** In this task i use binary search tree insert elementary operation **
+   **In this task i use binary search tree insert elementary operation**
     
   *first i write a class node,In this class i write data,left and right because every node has three part left,data,right.
   *Second i write a class BST and assign root value is null then write insert function.
@@ -41,4 +41,4 @@
   *then create a instance of BST by new keyword.
   *last i add the value like...bst.insert(50).
   
-  ** Check the output on console **
+  **Check the output on console**
