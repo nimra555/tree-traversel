@@ -21,8 +21,9 @@
 * Sub Tree — A tree T is a tree consisting of a node in T and all of its descendants in T.
 
 ## Binary Search Tree
-    Binary Search Tree is a tree is a tree in which each node has atmost two children.A Binary Search tree is a binary tree in which 
-    nodes that have lesser value are stored on the left while the nodes with a higher value are stored at the right.
+    Binary Search Tree is a tree is a tree in which each node has atmost two children.
+    A Binary Search tree is a binary tree in which nodes that have lesser value are stored 
+    on the left while the nodes with a higher value are stored at the right.
     
    **In this task i use binary search tree insert elementary operation**
     
